@@ -1,14 +1,14 @@
 <template>
-  <DynamicCssClasses />
+  <ComputedProperties />
 </template>
 
 <script>
-import DynamicCssClasses from './components/chapter9/Dynamic-css-classes.vue'
+import ComputedProperties from './components/chapter10/ComputedProperties.vue'
 
 export default {
   name: 'App',
   components: {
-    DynamicCssClasses
+    ComputedProperties
   }
 }
 </script>
