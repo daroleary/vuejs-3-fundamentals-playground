@@ -1,14 +1,14 @@
 <template>
-  <ComputedProperties />
+  <ReactivityFundamentals />
 </template>
 
 <script>
-import ComputedProperties from './components/chapter10/ComputedProperties.vue'
+import ReactivityFundamentals from './components/chapter11/ReactivityFundamentals.vue'
 
 export default {
   name: 'App',
   components: {
-    ComputedProperties
+    ReactivityFundamentals
   }
 }
 </script>
